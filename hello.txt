@@ -1,1 +1,2 @@
-Hello Git , this line was changed directly on master.
+
+Hello Git , this line was changed directly on master and this line was changed on conflict-practice.
