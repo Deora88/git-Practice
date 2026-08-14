@@ -1,1 +1,2 @@
 This file only exists on feature branch.
+#This file was created to practice Git branching and merging.
