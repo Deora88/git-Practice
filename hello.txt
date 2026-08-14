@@ -1,2 +1,3 @@
 
 Hello Git , this line was changed directly on master and this line was changed on conflict-practice.
+This line was addedon rebase-practice.
