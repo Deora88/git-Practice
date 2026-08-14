@@ -1,2 +1,1 @@
-Hello Git , This is my first file.
-This is my second line.
+Hello Git , this line was changed on conflict-practice.
